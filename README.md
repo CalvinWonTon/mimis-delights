@@ -1,4 +1,14 @@
-# React + TypeScript + Vite
+# Mimi's Delights
+
+This is a web application for a web storefront that will sell desserts and pastries. 
+
+## Technologies
+- TypeScript
+- React
+- Vite
+- Chakra UI
+
+## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
